@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Dynamo SVG Export Addon. visit www.dynamobim.org  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='168.552484848485px' height='57.8454545454546px' viewBox='0 0 168.552484848485 57.8454545454546' xml:space='preserve'> 
+<g>
+<line x1='0.145454545454555' y1='0.659987878787888' x2='0' y2='57.3581939393939' style='stroke:black; stroke-width: 1;'/>
+<line x1='0' y1='57.358193939394' x2='29.8370909090909' y2='57.7363757575758' style='stroke:black; stroke-width: 1;'/>
+<line x1='29.8370909090909' y1='57.7363757575758' x2='29.8126060606061' y2='0.358472727272726' style='stroke:black; stroke-width: 1;'/>
+<line x1='29.812606060606' y1='0.358472727272741' x2='0.145454545454538' y2='0.6599878787879' style='stroke:black; stroke-width: 1;'/>
+</g>
+<g>
+<line x1='29.812606060606' y1='0.358472727272741' x2='29.8370909090909' y2='57.7363757575758' style='stroke:black; stroke-width: 1;'/>
+<line x1='29.8370909090909' y1='57.7363757575758' x2='51.9190303030303' y2='57.7363757575758' style='stroke:black; stroke-width: 1;'/>
+<line x1='51.9190303030303' y1='57.7363757575758' x2='51.8660606060606' y2='0.470933333333342' style='stroke:black; stroke-width: 1;'/>
+<line x1='51.8660606060606' y1='0.470933333333349' x2='29.812606060606' y2='0.358472727272737' style='stroke:black; stroke-width: 1;'/>
+</g>
+<g>
+<line x1='51.8660606060606' y1='0' x2='51.5837575757576' y2='57.7363757575758' style='stroke:black; stroke-width: 1;'/>
+<line x1='51.5837575757576' y1='57.7363757575758' x2='83.2551515151515' y2='57.7363757575758' style='stroke:black; stroke-width: 1;'/>
+<line x1='83.2551515151515' y1='57.7363757575758' x2='83.2551515151515' y2='0.296351515151528' style='stroke:black; stroke-width: 1;'/>
+<line x1='83.2551515151515' y1='0.296351515151528' x2='51.8660606060606' y2='0' style='stroke:black; stroke-width: 1;'/>
+</g>
+<g>
+<line x1='83.2551515151515' y1='0.296363636363651' x2='83.7271515151515' y2='57.7365333333333' style='stroke:black; stroke-width: 1;'/>
+<line x1='83.7271515151515' y1='57.7365333333333' x2='114.984363636364' y2='57.2819757575758' style='stroke:black; stroke-width: 1;'/>
+<line x1='114.984363636364' y1='57.2819757575758' x2='115.048242424242' y2='0' style='stroke:black; stroke-width: 1;'/>
+<line x1='115.048242424242' y1='0' x2='83.2551515151515' y2='0.296363636363642' style='stroke:black; stroke-width: 1;'/>
+</g>
+<g>
+<line x1='115.048242424242' y1='0.421260606060613' x2='114.984' y2='57.6350545454546' style='stroke:black; stroke-width: 1;'/>
+<line x1='114.984' y1='57.6350545454546' x2='149.520121212121' y2='57.8454545454546' style='stroke:black; stroke-width: 1;'/>
+<line x1='149.520121212121' y1='57.8454545454546' x2='149.520121212121' y2='49.2811272727273' style='stroke:black; stroke-width: 1;'/>
+<line x1='149.520121212121' y1='49.2811272727273' x2='137.083878787879' y2='49.2811272727273' style='stroke:black; stroke-width: 1;'/>
+<line x1='137.083878787879' y1='49.2811272727273' x2='137.083878787879' y2='0.176472727272738' style='stroke:black; stroke-width: 1;'/>
+<line x1='137.083878787879' y1='0.176472727272738' x2='115.048242424242' y2='0.421260606060616' style='stroke:black; stroke-width: 1;'/>
+</g>
+<g>
+<line x1='137.083878787879' y1='0.271078787878793' x2='137.083878787879' y2='49.3940727272727' style='stroke:black; stroke-width: 1;'/>
+<line x1='137.083878787879' y1='49.3940727272727' x2='149.520121212121' y2='49.2811515151515' style='stroke:black; stroke-width: 1;'/>
+<line x1='149.520121212121' y1='49.2811515151515' x2='149.520121212121' y2='57.8454545454546' style='stroke:black; stroke-width: 1;'/>
+<line x1='149.520121212121' y1='57.8454545454546' x2='168.552484848485' y2='57.5327757575758' style='stroke:black; stroke-width: 1;'/>
+<line x1='168.552484848485' y1='57.5327757575758' x2='168.204' y2='0.848945454545465' style='stroke:black; stroke-width: 1;'/>
+<line x1='168.204' y1='0.848945454545472' x2='137.083878787879' y2='0.271078787878797' style='stroke:black; stroke-width: 1;'/>
+</g>
+</svg>
